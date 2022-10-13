@@ -21,7 +21,6 @@
       "css": ["content.styles.css"]
     }
   ],
-  "permissions": ["contextMenus"],
   "devtools_page": "devtools.html",
   "__COMMENT__": "Remove the 'devtools_page' line to avoid the permissions warning 'Read and change all your data on all websites' on install.",
   "web_accessible_resources": [
